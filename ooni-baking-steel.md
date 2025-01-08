@@ -2,14 +2,12 @@
 
 ## Things to test
 - Olive oil
-- Semolina mixed with flour
 - Rice flour
-- Add cheese later
-- Par bake with tomato all the pizzas then finish with toppings
-- Longer fermentation
 - Other flour brands
 - Some whole wheat
 - More hidration
+- Finer semolina
+- Longer outside fermentation
 
 ## Log
 
@@ -36,3 +34,10 @@
 - First pizza took a long time to bake on top, then I turned fan on (only bottom element heating) and they baked better
 - One pizza with dry mozarella, no tomato and with semolina was the best of the day, semolina gives nicer crunch to the dough but is not so nice to work with.
 - Third pizza was baked with tomato only and cheese was added later, this feels good but it was still a bit too early
+
+### 08/01/25
+- 65% with caputto flour, 3 day fermentation (1 day bulk 2 day balled)
+- Forgot to turn on the oven so results are not awsome
+- Still, tried parbaking dough with tomato and once cold add cheese and stuff. So far best method
+- Used the pizza mozzarella from lidl, good because it is drier than normal fresh mozzarella, but it is not super tasty
+- Used mix of semolina and flour. Maybe I can find finer semolina? If not this is best way so far
