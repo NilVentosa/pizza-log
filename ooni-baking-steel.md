@@ -41,3 +41,13 @@
 - Still, tried parbaking dough with tomato and once cold add cheese and stuff. So far best method
 - Used the pizza mozzarella from lidl, good because it is drier than normal fresh mozzarella, but it is not super tasty
 - Used mix of semolina and flour. Maybe I can find finer semolina? If not this is best way so far
+
+### 21/01/25
+- 64% water 20% sour dough 2.5% salt
+- Efective hidration is 68%
+- Fermented for 3 days
+- I put the steel on the second to top rack and used convection and top/bottom heat
+- Should use only grill heat next time
+- More salt next time
+- It was ok, but not super tasty
+- Maybe pizza took longer to cook due to no grill on, will see next
